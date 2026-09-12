@@ -1,0 +1,9 @@
+# Xcode
+xcuserdata/
+*.xcuserstate
+build/
+DerivedData/
+.DS_Store
+
+# configuracao do Firebase — cada pessoa usa a sua
+GoogleService-Info.plist
